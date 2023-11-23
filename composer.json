@@ -1,5 +1,5 @@
 {
-    "name": "samsul/belajar-php-composer-library",
+    "name": "samsul/php-composer-lib",
     "description": "Belajar Buat Library di Composer",
     "type": "library",
     "authors": [
